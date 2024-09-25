@@ -1,0 +1,33 @@
+#menu{
+    clear: initial;
+    text-align: center;
+    padding: 35px;
+    background: #ccc;
+    font-size: 50px;
+}
+.cl{
+   align-items: center;
+   padding: 40px 700px;
+}
+img{
+    padding: 0px 30px 30px 30px;
+    width: 400px;
+    height: 350px;
+}
+h1{
+    color: brown;
+    align-items: center;
+    text-align: center;
+}
+p{
+    padding: 0px 30px 30 px 30 px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+#rodape{
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+    font-size: 20px;
+}
